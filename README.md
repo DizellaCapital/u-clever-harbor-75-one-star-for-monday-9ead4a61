@@ -6,7 +6,7 @@
 
 A one-star review of Monday, written as though Monday were a restaurant — 25 words or fewer.
 
-This repository is an entry for the [One Star for Monday bounty on make.fun](https://make.fun/competitions/u-clever-harbor-75-one-star-for-monday-9ead4a61).
+This repository is an entry for the [One Star for Monday bounty on make.fun](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61).
 
 ## Entry
 
