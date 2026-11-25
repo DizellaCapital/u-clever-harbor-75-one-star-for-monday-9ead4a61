@@ -42,6 +42,9 @@ def main():
     if read_back != REVIEW:
         print("read-back mismatch", file=sys.stderr)
         return 1
+    if len(read_back.split()) != len(words) or len(read_back) != len(REVIEW):
+        print("read-back count mismatch", file=sys.stderr)
+        return 1
 
     print(f"wrote {out_path}: {len(words)} words, {len(REVIEW)} chars")
     return 0
